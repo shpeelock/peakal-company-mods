@@ -1,0 +1,88 @@
+[Message:   BepInEx] BepInEx 5.4.22.0 - Lethal Company (12/23/2023 9:03:19 PM)
+[Info   :   BepInEx] Running under Unity v2022.3.9.15351836
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.22.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.MonoMod.HookGenPatcher 1.2.1.0]
+[Info   :   BepInEx] 2 patcher plugins loaded
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 11 plugins to load
+[Info   :   BepInEx] Loading [BrutalCompanyPlus 3.5.1]
+[Warning:BrutalCompanyPlus] Loaded Brutal Company Plus and applying patches.
+[Info   :   BepInEx] Loading [More Ship Upgrades 2.5.0]
+[Info   :More Ship Upgrades] More Ship Upgrades has been patched
+[Info   :   BepInEx] Loading [LethalLib 0.6.2]
+[Info   : LethalLib] LethalLib loaded!!
+[Info   :   BepInEx] Loading [FreddyBracken 1.0.4]
+[Info   :FreddyBracken] Plugin FreddyBracken is loaded!
+[Info   :   BepInEx] Loading [MoreCompany 1.7.1]
+[Info   :MoreCompany] Loading MoreCompany...
+[Info   :MoreCompany] Checking: G:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins/MoreCompanyCosmetics
+[Info   :MoreCompany] Loaded MoreCompany FULLY
+[Info   :MoreCompany] Read settings and cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.3dglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.bunnyears from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.denimhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancyglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.gunholster from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.hardhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.jesterhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.kittyears from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.mimemask from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancypants from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.outoforder from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.plaguemask from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.eyeballs from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.rudolph from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.santahat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.slimething from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.tophat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.watch from bundle
+[Info   :MoreCompany] Loading USER COSMETICS...
+[Info   :   BepInEx] Loading [Jump Delay Patch 0.0.0.1]
+[Info   :Jump Delay Patch] Plugin JumpDelayPatch is loaded!
+[Info   :   BepInEx] Loading [MoreEmotes-Sligili 1.2.0]
+[Info   :MoreEmotes-Sligili] MoreEmotes loaded
+[Info   :   BepInEx] Loading [Better Item Scan 2.1.0.0]
+[Info   :PopleZoo.BetterItemScan] Plugin BetterItemScan is loaded!
+[Info   :   BepInEx] Loading [FOV Adjust 1.1.1]
+[Info   :Rozebud.FovAdjust] Starting.
+[Info   :Rozebud.FovAdjust] Configs DONE!
+[Info   :Rozebud.FovAdjust] All FOV Adjust patches have loaded successfully.
+[Info   :   BepInEx] Loading [Mimics 2.2.0]
+[Info   :    Mimics] Plugin Mimics is loaded!
+[Info   :   BepInEx] Loading [More Suits 1.4.1]
+[Info   :More Suits] Plugin More Suits is loaded!
+[Message:   BepInEx] Chainloader startup complete
+[Info   :BrutalCompanyPlus] Attempting to Initialize BrutalPlus
+[Warning:BrutalCompanyPlus] Brutal Plus is Awake
+[Info   : LethalLib] Adding 3 items to terminal
+[Info   : LethalLib] MoreShipUpgrades registered item: Portable Tele
+[Info   : LethalLib] MoreShipUpgrades registered item: Advanced Portable Tele
+[Info   : LethalLib] MoreShipUpgrades registered item: Night Vision Goggles
+[Info   : LethalLib] MoreShipUpgrades registered item: Portable Tele
+[Info   : LethalLib] MoreShipUpgrades registered item: Advanced Portable Tele
+[Info   : LethalLib] MoreShipUpgrades registered item: Night Vision Goggles
+[Info   : LethalLib] Adding 0 unlockables to unlockables list
+[Warning:BrutalCompanyPlus] Modifying the Starting Quota Values based on Config
+[Info   : LethalLib] Adding 0 items to terminal
+[Info   : LethalLib] Added custom dungeons to levels
